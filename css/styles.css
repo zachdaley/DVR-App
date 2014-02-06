@@ -1,0 +1,18 @@
+.orbit-content:li div {
+  
+  	color: white;
+  	background: #2ba6cb;
+ 	padding: 30px 40px; 
+
+}
+
+.orbit-content li div h3 {
+    
+    color: white; 
+
+}
+
+#memory:h3 {
+
+	position: center;
+}

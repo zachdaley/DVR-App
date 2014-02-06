@@ -55,3 +55,11 @@ background:#333;
 display: inline-block;
 text-decoration: inherit;
 }
+
+
+/*Controls*/
+
+.button-group{
+
+	text-align: center;
+}

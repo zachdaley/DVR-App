@@ -1,11 +1,12 @@
+/* Orbit */
 
-.orbit-container{
+
+.orbit-container {
 overflow: hidden;
 width: 100%;
 position: relative;
 background: none;
 }
-
 
 .example-orbit li div {
 color: white;
@@ -14,13 +15,14 @@ padding: 30px 40px;
 
 }
 
+.orbit-container .orbit-slides-container > * .orbit-caption {
+	position: absolute;
+	text-align: center;
+}
+
 .orbit-container .orbit-slides-container img {
 display: block;
 max-width: 100%;
-}
-
-img {
-	vertical-align: middle;
 }
 
 h1, h2, h3, h4, h5{
@@ -35,7 +37,7 @@ body{
 /*Navigation*/
 
 .tabs dd > a {
-	color: #949494 ;
+	color: #fff ;
 	background: #2b2b2b;
 }
 

@@ -14,8 +14,18 @@ padding: 30px 40px;
 
 }
 
+.orbit-container .orbit-slides-container img {
+display: block;
+max-width: 100%;
+}
+
+img {
+	vertical-align: middle;
+}
+
 h1, h2, h3, h4, h5{
 	color: #eee;
+	text-align: center;
 }
 
 body{
@@ -39,7 +49,7 @@ background:#333;
 }
 
 .fi-widget {
-size: 20px;
+
 display: inline-block;
 text-decoration: inherit;
 }

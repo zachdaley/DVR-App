@@ -62,7 +62,8 @@ text-decoration: inherit;
 table {
 	width: 100%;
 	text-align: center;
-	border: none;
+	background: #2B2B2B;
+	border-color: #2B2B2B;
 }
 
 
@@ -75,6 +76,11 @@ border: none;
 background: #2b2b2b;
 
 
+}
+
+td:active {
+	background: white;
+	color: black;
 }
 
 /*Thumbnails*/
@@ -92,3 +98,27 @@ div.panel {
 
 	border:none;
 }
+
+/*Accordion*/
+
+.accordion .content.active {
+
+	background-color: #2B2B2B;
+}
+
+.accordion dd > a{
+
+	background: #67EE64;
+	color: black;
+}
+.accordion dd > a:hover{
+
+	background: #3E8F3C;
+	color: black;
+}
+
+.accordion dd.active a{
+	background: #30C8CF;
+}
+
+/*1C9843*/

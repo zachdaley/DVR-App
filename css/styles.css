@@ -85,15 +85,16 @@ background: #2b2b2b;
 
 
 }
+td.record{
 
+	background: red;
+}
 td:active {
 	background: white;
 	color: black;
 }
 
-.fi-record{
-	color: red;
-}
+
 
 .fi-arrow-left, .fi-arrow-right, .fi-arrow-up, .fi-arrow-down, .fi-target {
 

@@ -1,4 +1,4 @@
-/* Orbit */
+ Orbit */
 
 
 .orbit-container {
@@ -34,6 +34,13 @@ body{
 	background: #2B2B2B;
 }
 
+/*Power Button*/
+
+.fi-power {
+	color: red;
+	font-size: 40px;
+}
+
 /*Navigation*/
 
 .tabs dd > a {
@@ -55,6 +62,7 @@ background:#333;
 display: inline-block;
 text-decoration: inherit;
 }
+
 
 
 /*Controls*/
@@ -83,6 +91,14 @@ td:active {
 	color: black;
 }
 
+.fi-record{
+	color: red;
+}
+
+.fi-arrow-left, .fi-arrow-right, .fi-arrow-up, .fi-arrow-down, .fi-target {
+
+	color:#30C8CF;
+}
 /*Thumbnails*/
 
 div.panel {
@@ -126,4 +142,4 @@ div.panel {
 	color: black;
 }
 
-/*1C9843*/
+/*1C9843

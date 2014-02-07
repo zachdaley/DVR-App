@@ -1,4 +1,4 @@
- Orbit */
+/* Orbit */
 
 
 .orbit-container {
@@ -102,7 +102,7 @@ td:active {
 /*Thumbnails*/
 
 div.panel {
-	background-color: #2B2B2B;
+	background-color: black;
 }
 
 .panel h3, .panel h5, .panel h6 {
@@ -119,7 +119,7 @@ div.panel {
 
 .accordion .content.active {
 
-	background-color: #2B2B2B;
+	background-color: black;
 }
 
 .accordion dd > a{
@@ -128,8 +128,7 @@ div.panel {
 	color: black;
 }
 .accordion dd > a:hover{
-
-	background: #3E8F3C;
+	background: #67EE64;
 	color: black;
 }
 

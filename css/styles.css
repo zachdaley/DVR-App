@@ -123,13 +123,12 @@ div.panel {
 }
 
 .accordion dd > a{
-
-	background: #67EE64;
-	color: black;
+	font-weight: bold;
+	background: #1C9843;
+	color: white;
 }
 .accordion dd > a:hover{
-	background: #67EE64;
-	color: black;
+	background: #1C9843;
 }
 
 .accordion dd.active a{
@@ -141,4 +140,4 @@ div.panel {
 	color: black;
 }
 
-/*1C9843
+/*1C98438?

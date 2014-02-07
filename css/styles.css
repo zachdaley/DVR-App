@@ -59,4 +59,20 @@ text-decoration: inherit;
 
 /*Controls*/
 
+table {
+	width: 100%;
+	text-align: center;
+	border: none;
+}
 
+
+table tr td {
+
+padding: 1.5rem;
+font-size: 2rem;
+color: #eee;
+border: none;
+background: #2b2b2b;
+
+
+}

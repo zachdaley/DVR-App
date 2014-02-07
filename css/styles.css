@@ -125,11 +125,11 @@ div.panel {
 
 .accordion dd > a{
 	font-weight: bold;
-	background: #1C9843;
+	background: #30C8CF;
 	color: white;
 }
 .accordion dd > a:hover{
-	background: #1C9843;
+	background: #30C8CF;
 }
 
 .accordion dd.active a{

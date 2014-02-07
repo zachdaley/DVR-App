@@ -76,3 +76,19 @@ background: #2b2b2b;
 
 
 }
+
+/*Thumbnails*/
+
+div.panel {
+	background-color: #2B2B2B;
+}
+
+.panel h3, .panel h5, .panel h6 {
+	color: #eee;
+	text-align: left;
+}
+
+.panel {
+
+	border:none;
+}
